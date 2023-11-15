@@ -2,7 +2,7 @@ name: Conditional, Sharing and Matrix Workflow Example
 
 on:
   push:
-    branches:
+    branches: 
       - main
 
 jobs:
